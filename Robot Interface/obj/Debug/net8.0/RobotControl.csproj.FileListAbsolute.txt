@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\bin\Debug\net8.0\RobotControl.deps.json
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\bin\Debug\net8.0\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\bin\Debug\net8.0\RobotControl.pdb
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\refint\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\RobotControl.pdb
+C:\Users\Admin\source\repos\Robot Application\Robot Interface\obj\Debug\net8.0\ref\RobotControl.dll

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Robot Application\RobotControll\bin\Debug\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\RobotControll\bin\Debug\RobotControl.pdb
+C:\Users\Admin\source\repos\Robot Application\RobotControll\obj\Debug\RobotControl.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Robot Application\RobotControll\obj\Debug\RobotControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Robot Application\RobotControll\obj\Debug\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\RobotControll\obj\Debug\RobotControl.pdb

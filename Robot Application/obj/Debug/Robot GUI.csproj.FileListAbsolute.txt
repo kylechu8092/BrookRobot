@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.exe.config
+C:\Users\Admin\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.exe
+C:\Users\Admin\source\repos\Robot Application\Robot Application\bin\Debug\Robot Application.pdb
+C:\Users\Admin\source\repos\Robot Application\Robot Application\bin\Debug\RobotControl.dll
+C:\Users\Admin\source\repos\Robot Application\Robot Application\bin\Debug\RobotControl.pdb
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot_Application.Form1.resources
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot_Application.Properties.Resources.resources
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot GUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot GUI.csproj.Up2Date
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.exe
+C:\Users\Admin\source\repos\Robot Application\Robot Application\obj\Debug\Robot Application.pdb
